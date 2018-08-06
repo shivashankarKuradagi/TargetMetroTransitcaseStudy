@@ -1,0 +1,45 @@
+.heading {
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-weight: 500;
+	margin-bottom: 4%;
+	font-size: 200%;
+}
+
+.lables {
+	margin-left: 10%;
+	margin-right: 5%;
+	font-family: "Segoe UI", Arial, sans-serif;
+}
+
+.rowStyle {
+	margin-bottom: 1%;
+}
+
+.inputField {
+	width: 30%;
+	margin-left: 1%
+}
+
+.button {
+	margin-left: 50%;
+}
+
+.result {
+	margin-top: 4%;
+	color: #187018;
+	margin-left: 10%;
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-weight: 500;
+}
+
+.failureResult {
+	margin-top: 4%;
+	color: red;
+	margin-left: 10%;
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-weight: 500;
+}
+
+.mainPage {
+	background-color: #e0ebf0;
+}
