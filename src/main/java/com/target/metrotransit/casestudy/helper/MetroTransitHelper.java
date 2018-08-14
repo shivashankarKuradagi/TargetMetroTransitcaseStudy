@@ -141,7 +141,7 @@ public class MetroTransitHelper
                                                                               routeId,
                                                                               direction,
                                                                               stopValue );
-        if( departure.getBody() != null )
+        if( departure.getBody() != null && departure.getBody().length > 0 )
         {
             return departure.getBody()[0];
         }
